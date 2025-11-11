@@ -1,4 +1,4 @@
-#FILE NOT heavily UTILIZED IN OUR PROJECT
+#FILE NOT UTILIZED IN OUR PROJECT
 #MAIN FILES ARE run.py AND train_utils.py
 import numpy as np
 
