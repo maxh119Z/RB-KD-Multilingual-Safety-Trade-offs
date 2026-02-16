@@ -1,6 +1,6 @@
 # Response-Based Knowledge Distillation for Multilingual Jailbreak Prevention Unwittingly Compromises Safety
 
-## Arxiv Link: (Coming soon)
+## Arxiv Link: https://arxiv.org/abs/2602.11157
 Openreview: https://openreview.net/forum?id=e26bFhz8YV
 
 This repository contains the official implementation for the paper: "Response-Based Knowledge Distillation for Multilingual Jailbreak Prevention Unwittingly Compromises Safety." This research explores using knowledge distillation (KD) to improve the safety of Large Language Models (LLMs) against multilingual jailbreak attacks and uncovers a counterintuitive degradation in model safety.
