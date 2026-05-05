@@ -44,6 +44,18 @@ Before running, you must add your secret keys for Hugging Face and OpenAI in the
 └── LICENSE               # The Apache 2.0 License for the codebase
 ```
 
+### Citation
+```
+@misc{zhang2025responsebasedknowledgedistillationmultilingual,
+      title={Response-Based Knowledge Distillation for Multilingual Jailbreak Prevention Unwittingly Compromises Safety}, 
+      author={Max Zhang and Derek Liu and Kai Zhang and Joshua Franco and Haihao Liu},
+      year={2025},
+      eprint={2602.11157},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.11157}, 
+}
+```
 ### 🙏 Acknowledgments
 
 The code framework was adapted from Google's [Distilling-step-by-step](https://github.com/google-research/distilling-step-by-step).
